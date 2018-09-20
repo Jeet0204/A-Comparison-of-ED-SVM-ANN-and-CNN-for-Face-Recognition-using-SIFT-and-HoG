@@ -12,15 +12,14 @@ Problem Statement:
 - Check robustness against affine transformation (Rotation, Scaling, Translation).
 
 Database:
-Ahmedabad University student database was used.
-Total face images: 36 x 16 = 576 (8 original image + 8 sketch image)
-Joy, fear, disgust, surprise, sadness, anger, cap and goggles
-
-No of Person - 36
-No of image per person in training - 12
-Total training images - 36*12 = 432
-No of image per person in testing - 4
-Total testing images - 36*4 = 144
+ - Ahmedabad University student database was used.
+ - Total face images: 36 x 16 = 576 (8 original image + 8 sketch image)
+ - Joy, fear, disgust, surprise, sadness, anger, cap and goggles
+ - No of Person - 36
+ - No of image per person in training - 12
+ - Total training images - 36*12 = 432
+ - No of image per person in testing - 4
+ - Total testing images - 36*4 = 144
 
 Preprocessing Database: 
 - Images are converted to gray scale
